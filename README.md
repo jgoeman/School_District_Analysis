@@ -55,7 +55,7 @@ The scores were changed to Nan in the data frames, and the metrics above were re
 
 ## Results
 The district's data as seen in the data frames above provide a few insights that could be looked into.
-- In this case budget per student did not seem to have any correlation as some of the lower spednign schools had some of the highest passing rates. This could come down to how the money is spent rather that how much a school spends per student. More information would be neccesarry to look in to this.
+- In this case budget per student did not seem to have any correlation as some of the lower spending schools had some of the highest passing rates. This could come down to how the money is spent rather that how much a school spends per student. More information would be neccesarry to look in to this.
 - School size is one big factor in determining overall student passing percentages. This effect can be seen once total students students at a school start to exceed 2,000.
 - A student that attends a charter school is much more likely to have passing averages in both Math and reading with a 36% difference in this factor.
 
