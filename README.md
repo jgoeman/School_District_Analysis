@@ -69,5 +69,5 @@ The district's data as seen in the data frames above provide a few insights that
   4. The overall average in math and reading scores did decrease, but by less than a tenth of a percent.    
      
 ### Recommendation     
- Overall I would recommend analyzing the spending of the schools spending the most per student, and looking into the plausibility of those dollars being allocated towards building new schools. Taking funding away may look negative in the beginning, but as the data shows schools with approximately 2,000 students seem to perform better, and better grades do not seem to correlate with spending more per student.
+ Overall I would recommend analyzing the spending of the schools spending the most per student, and verifying the plausibility of those dollars being allocated towards building new schools. Removing a portion of funding per student may appear negative in the beginning, but as the data shows, schools with approximately 2,000 students tend to perform better, and better grades do not seem to correlate with spending more per student.
 
