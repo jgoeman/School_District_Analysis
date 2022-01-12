@@ -59,11 +59,15 @@ The district's data as seen in the data frames above provide a few insights that
 - School size is one big factor in determining overall student passing percentages. This effect can be seen once total students students at a school start to exceed 2,000.
 - A student that attends a charter school is much more likely to have passing averages in both Math and reading with a 36% difference in this factor.
 
-## Summary    
+## Summary   
+### Academic Dishonesty
 - Overall the changes due to the academic dishonesty were negligible with less than a tenth of a percent overall change, decreasing in passing percentages, to the districts data. To provide further understanding as to why the score removal has so little effect on the total; there are only a total of 461 Thomas High School 9th grade scores being removed. This is out of a total of 39,170 scores that were orignally looked at before the academic dishonesty was discovered.
 - Looking at the data at the school level shows a few minute changes. 
   1. A tenth of a percent decrease in the percent of students passing math at Thomas High School
   2. 3 tenths of a percent decrease in students passing reading at Thomas High School
   3. 3 tenths of a percent decrease in overall passing rate for Thomas High School
-  4. The overall average in math and reading scores did decrease, but by less than a tenth of a percent.
+  4. The overall average in math and reading scores did decrease, but by less than a tenth of a percent.    
+     
+### Recomnedation     
+ Overall I would recommend analyzing the spending of the schools spending the most per student, and looking into the plausibility of those dollars being allocated towards building new schools. Taking funding away may look negative in the beginning, but as the data shows schools with approximately 2,000 students seem to perform better, and better grades do not seem to correlate with spending more per student.
 
